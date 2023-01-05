@@ -11,3 +11,4 @@ git clone https://github.com/nasovano/kata_go.git
 cd kata_go
 3. To start the calculator in CLI just run:
 ./calc_go/calc
+4. To rebuild the project all source files in Golang are in calc_go directory.
